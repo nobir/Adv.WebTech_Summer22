@@ -1,4 +1,4 @@
-# Advanced .Net
+# Advanced Web Technologies
 
 ## Folder structure:
 ---
