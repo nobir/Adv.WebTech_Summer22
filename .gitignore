@@ -1,0 +1,30 @@
+
+# Created by httpswww.toptal.comdevelopersgitignoreapilaravel
+# Edit at httpswww.toptal.comdevelopersgitignoretemplates=laravel
+
+### Laravel ###
+vendor
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Laravel 4 specific
+bootstrapcompiled.php
+appstorage
+
+# Laravel 5 & Lumen specific
+publicstorage
+publichot
+
+# Laravel 5 & Lumen specific with changed public path
+public_htmlstorage
+public_htmlhot
+
+storage.key
+.env
+Homestead.yaml
+Homestead.json
+.vagrant
+.phpunit.result.cache
+
+# End of httpswww.toptal.comdevelopersgitignoreapilaravel
